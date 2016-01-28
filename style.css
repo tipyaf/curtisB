@@ -146,6 +146,6 @@ footer h5:last-child{
 }
 @media screen and (max-width: 319px){
   .social-foot ul{
-    display: inline;
+    width: 100%;
   }
 }
