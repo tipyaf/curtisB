@@ -115,7 +115,7 @@ footer{
 .social-foot ul{
   width: 30%;
   padding-top: 1%;
-  display: inline-flex;
+  display:flex;
   justify-content: space-around;
 }
 .social-foot li, .social-foot a {
