@@ -46,9 +46,12 @@ p{
   padding-right: 10%;
 }
 #home .jumbotron {
-  width: 100%;
   background-image: url("images/fond3.jpg");
   background-size: cover;
+  background-attachment: fixed;
+  background-position: 0;
+
+
 
 }
 #home-button {
@@ -117,6 +120,8 @@ footer{
   padding-top: 1%;
   display: inline-flex;
   justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
 }
 .social-foot li, .social-foot a {
   list-style-type: none;
